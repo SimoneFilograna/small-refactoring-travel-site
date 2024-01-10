@@ -2,4 +2,4 @@
 
     Small refactoring from a travel website using React
 
-![refactoring](/refactoring.png)
+![refactoring](/public/refactoring.png)
