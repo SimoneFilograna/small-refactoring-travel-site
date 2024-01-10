@@ -51,19 +51,19 @@ export const services = [
         id: 1,
         servIcon: 'fas fa-wallet fa-fw',
         title: 'saving money',
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.'
+        text: 'Con Travel Road, puoi viaggiare il mondo senza spendere una fortuna.'
     },
     {
         id: 2,
         servIcon: 'fas fa-tree fa-fw',
         title: 'endless hiking',
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.'
+        text: 'Esplora nuovi posti e conosci la storia e la cultura del luogo.'
     },
     {
         id: 3,
         servIcon: 'fas fa-socks fa-fw',
         title: 'amazing comfort',
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.'
+        text: 'Il comfort che ti fa sentire a casa, anche lontano da casa.'
     },
 ]
 
@@ -74,19 +74,19 @@ export const tours = [
         date: 'august 26th, 2024',
         name: 'Tibet Adventure',
         state: 'china',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.',
+        text: "L'altopiano tibetano, il più alto del mondo, è una terra di paesaggi mozzafiato, cultura antica e spiritualità profonda. Immergetevi in un'atsmosfera mistica",
         timeTravel: '6 days',
-        price: '$2100'
+        price: '€ 2100'
     },
     {
         id: 2,
         img: tour2,
         date: 'april 26th, 2024',
-        name: 'best of java',
+        name: 'best of Giava',
         state: 'indonesia',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.',
+        text: "Il viaggio inizia a Giava, l'isola più popolosa dell'Indonesia. Visiterete la città di Yogyakarta, patrimonio mondiale dell'UNESCO.",
         timeTravel: '12 days',
-        price: '$1800'
+        price: '€ 1800'
     },
     {
         id: 3,
@@ -94,9 +94,9 @@ export const tours = [
         date: 'december 26th, 2024',
         name: 'explore hong kong',
         state: 'china',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.',
+        text: "Il viaggio inizia con un tour della città, che vi permetterà di ammirare i suoi grattacieli futuristici, i templi tradizionali e le strade vivaci.",
         timeTravel: '16 days',
-        price: '$2800'
+        price: '€ 2800'
     },
     {
         id: 4,
@@ -104,8 +104,8 @@ export const tours = [
         date: 'october 26th, 2024',
         name: 'kenya highlights',
         state: 'kenya',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.',
+        text: "Il viaggio inizia a Nairobi, la capitale del Kenya. Qui, visiterete il parco nazionale di Nairobi, dove potrete vedere animali selvatici come leoni, giraffe, zebre e elefanti.",
         timeTravel: '15 days',
-        price: '$2900'
+        price: '€ 2900'
     }
 ]

@@ -6,8 +6,7 @@ const HeroSection = () => {
       <div className="hero-banner">
         <h1>continue exploring</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+          I viaggi sono la magia che ci permette di sognare a occhi aperti. Ci portano in luoghi incredibili, ci fanno incontrare persone straordinarie e ci regalano ricordi indelebili.
         </p>
         <a href="#tours" className="btn hero-btn">explore tours</a>
       </div>
